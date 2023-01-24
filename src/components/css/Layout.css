@@ -1,0 +1,14 @@
+.header{
+  display: flex;
+  justify-content: center;
+  margin: auto;
+  height: 10vh;
+  background-color: black;
+}
+
+.header_nav{
+  display: flex;
+  width: 15vw;
+  justify-content: space-between;
+  align-items: center;
+}
